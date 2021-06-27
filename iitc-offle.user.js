@@ -283,7 +283,7 @@ function wrapper(plugin_info) {
                 font-family: monospace;
                 text-align: center;
                 text-shadow: 0 0 0.5em black, 0 0 0.5em black, 0 0 0.5em black;
-                pointer-events: none;
+                pointer-events: none!important;
                 -webkit-text-size-adjust: none;
             }
             `)
